@@ -33,7 +33,7 @@ L'objectif est de créer un projet fonctionnel tout en utilisant des outils mode
 
 ## Aperçu
 
-![Image de présentation du projet](https://placehold.co/800x400)
+![Image de présentation du projet](shttps://www.anthedesign.fr/referencement/recherche-par-image/)
 
 *Cette image pourra être remplacée par une capture d'écran de mon projet.*
 
