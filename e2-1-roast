@@ -1,4 +1,31 @@
-Capture 1 — Espacement : Tout le contenu est trop serré et manque d’espace entre les différents éléments.
-Capture 2 — Alignement : Le lien « Aide ? » est centré alors que le reste du contenu est aligné à gauche.
-Capture 3 — Hiérarchie : Le bouton principal est presque invisible et ne ressort pas comme une action importante.
-Capture 4 — Typographie : Trop de styles de polices différents sont utilisés, ce qui rend la page incohérente et difficile à lire.
+01 — Mur de texte
+Lisibilité : 1
+Navigation : 2
+Feedback : 2
+Cohérence : 2
+Accessibilité : 1
+Phrase précise : Le contenu est trop serré, sans hiérarchie claire, ce qui rend la lecture difficile.
+
+02 — Labyrinthe
+Lisibilité : 4
+Navigation : 1
+Feedback : 2
+Cohérence : 2
+Accessibilité : 3
+Phrase précise : La navigation est confuse : l’action principale est cachée et le lien « Aide ? » est isolé du reste.
+
+03 — Silence
+Lisibilité : 2
+Navigation : 2
+Feedback : 1
+Cohérence : 3
+Accessibilité : 1
+Phrase précise : Le bouton principal est presque invisible et ne donne aucune indication claire sur l’action à effectuer.
+
+04 — Carnaval
+Lisibilité : 1
+Navigation : 2
+Feedback : 2
+Cohérence : 1
+Accessibilité : 1
+Phrase précise : Les couleurs et les typographies sont trop nombreuses et rendent la page incohérente et difficile à lire.
