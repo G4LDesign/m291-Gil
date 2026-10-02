@@ -1,0 +1,72 @@
+# Mes prédictions — e1-6
+
+## Extrait 1 — Afficher
+
+**Prédiction :**  
+Je pense que l'écran va afficher « Bonjour la classe ».
+
+**Résultat :**  
+Bonjour la classe
+
+**Explication :**  
+Le code récupère l'élément `out1` et remplace son texte par « Bonjour la classe ».
+
+
+## Extrait 2 — Calculer
+
+**Prédiction :**  
+Je pense que l'écran va afficher 7.
+
+**Résultat :**  
+7
+
+**Explication :**  
+La variable `a` vaut 4 et la variable `b` vaut 3. Le programme additionne les deux : 4 + 3 = 7.
+
+
+## Extrait 3 — Compter
+
+**Prédiction :**  
+Je pense que l'écran va afficher 3.
+
+**Résultat :**  
+3
+
+**Explication :**  
+La liste `fruits` contient trois éléments : pomme, poire et kiwi. `fruits.length` compte le nombre d'éléments dans la liste.
+
+
+## Extrait 4 — Condition
+
+**Prédiction :**  
+Je pense que l'écran va afficher « suffisant ».
+
+**Résultat :**  
+suffisant
+
+**Explication :**  
+La note vaut 5. La condition vérifie si la note est supérieure ou égale à 4. Comme 5 est supérieur à 4, le programme choisit « suffisant ».
+
+
+## Extrait 5 — Boucle simple
+
+**Prédiction :**  
+Je pense que l'écran va afficher « 1 2 3 ».
+
+**Résultat :**  
+1 2 3
+
+**Explication :**  
+La boucle commence à 1 et continue jusqu'à 3. À chaque passage, elle ajoute la valeur de `i` au message.
+
+
+## Extrait 6 — Clic
+
+**Prédiction :**  
+Je pense que le nombre va augmenter de 1 à chaque clic sur le bouton Lancer.
+
+**Résultat :**  
+Le nombre augmente de 1 à chaque clic : 1, 2, 3, 4, etc.
+
+**Explication :**  
+La variable `n` commence à 0. À chaque clic, le programme fait `n = n + 1`, puis affiche la nouvelle valeur.
