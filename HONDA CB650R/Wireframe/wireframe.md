@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 
-[Voir les wireframes interactifs](https://github.com/G4LDesign/m291-Gil/blob/main/HONDA%20CB650R/Wireframe/index.html)
+[Voir les wireframes interactifs](https://g4ldesign.github.io/m291-Gil/HONDA%20CB650R/Wireframe/)
 
 Le projet consiste à créer un site immersif consacré à la Honda CBR650R rouge, destiné aux jeunes motards en Suisse.
 
